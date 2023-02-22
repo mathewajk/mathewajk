@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mathewajk!
+- 👋 Hi, I’m Mathew (@mathewajk)!
 - 🌸 I’m interested in web development, ethical data, game design, and music composition for interactive media.
 - 🌱 I’m currently learning Vue and Flask.
 - 🎮 I’m looking to collaborate on game jams and web projects!
