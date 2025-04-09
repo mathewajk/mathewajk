@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Mathew (@mathewajk)!
-- 🌸 I’m interested in web development, language-learning, game design, and music composition for interactive media.
-- 🎮 I’m looking to collaborate on game jams and web projects!
-- ✉️ How to reach me: mathew@mathewkramer.io (or mathew@lumicsound.co for music inquiries).
+Software Devloper @ [The Center for Academic innovation](https://ai.umich.edu) | Artistic Director, Sazanami Taiko Arts Ensemble
 
-<!---
+- 🌸 I’m interested in web development, language learning, game development, and music composition for interactive media.
+- 🥁 I'm a professional taiko artist.
 - 🌱 I’m currently learning more about DevOps and containerization.
---->
+- 🎮 I’m looking to collaborate on game jams and web projects
+- ✉️ How to reach me: mathew@mathewkramer.io
 
 <!---
 mathewajk/mathewajk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
