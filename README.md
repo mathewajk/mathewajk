@@ -1,4 +1,4 @@
-Software Devloper @ [The Center for Academic innovation](https://ai.umich.edu) | Artistic Director, Sazanami Taiko Arts Ensemble
+Website manager @ [kaDON](https:/kadon.com) | Artistic Director, Sazanami Taiko Arts Ensemble
 
 - 🌸 I’m interested in web development, language learning, game development, and music composition for interactive media.
 - 🥁 I'm a professional taiko artist.
